@@ -1,13 +1,15 @@
 # DevOps Ninja: Docker, Kubernetes e Rancher
 
+https://github.com/marcossouz/devops
+
 Construção, teste, deployment de aplicações em container com esse mega curso. Da criação do cluster até o Pipeline
 
-- [ ] 1. Introdução e ambiente
-  - [ ] 1.1 Introdução
-  - [ ] 1.2 Containers
-  - [ ] 1.3 DevOps
-  - [ ] 1.4 Ambiente
-  - [ ] 1.5 Ambiente - AWS
+- [x] 1. Introdução e ambiente
+  - [x] 1.1 Introdução
+  - [x] 1.2 Containers
+  - [x] 1.3 DevOps
+  - [x] 1.4 Ambiente
+  - [x] 1.5 Ambiente - AWS
 - [ ] 2. Rancher e Kubernetes
   - [ ] 2.1 Construindo sua aplicação
   - [ ] 2.2 Rancher-Single Node
