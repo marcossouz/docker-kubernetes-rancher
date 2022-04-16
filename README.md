@@ -1,6 +1,7 @@
 # DevOps Ninja: Docker, Kubernetes e Rancher
 
 https://github.com/marcossouz/devops
+https://github.com/marcossouz/kubernetes-deploy-go
 
 Construção, teste, deployment de aplicações em container com esse mega curso. Da criação do cluster até o Pipeline
 
@@ -20,14 +21,15 @@ Construção, teste, deployment de aplicações em container com esse mega curso
   - [x] 3.3 Volume
   - [x] 3.4 Log
   - [x] 3.5 Monitoramento
-  - [ ] 3.6 Cronjob
-  - [ ] 3.7 Configmap
-  - [ ] 3.8 Secrets
-  - [ ] 3.9 Liveness
-  - [ ] 3.10 Rolling Update
-  - [ ] 3.11 Autoscaling
-  - [ ] 3.12 Scheduling
-  - [ ] 3.13 Pipeline
+  - [x] 3.6 Cronjob
+  - [x] 3.7 Configmap
+  - [x] 3.8 Secrets
+  - [x] 3.9 Liveness
+  - [x] 3.10 Rolling Update
+  - [x] 3.11 Autoscaling
+  - [x] 3.12 Scheduling
+  - [x] 3.13 Pipeline
+    - [x] `https://github.com/marcossouz/kubernetes-deploy-go`
   - [ ] 3.14 Kubeless
   - [ ] 3.15 Helm
 - [ ] 4. Estratégia e Encerramento
@@ -119,3 +121,12 @@ Construção, teste, deployment de aplicações em container com esse mega curso
 ### Monitoramento - Grafana
 ![Grafana](https://user-images.githubusercontent.com/18218791/163680144-6374bba9-1a4b-4c9b-8473-8060d82507b8.png)
 ![Grafana 2](https://user-images.githubusercontent.com/18218791/163680213-a6b71b6b-c600-44ed-adc6-637d0e0ad355.png)
+
+### Cronjob no Kubernates
+![cronjob](https://user-images.githubusercontent.com/18218791/163681854-59f9bb4b-e150-46cc-b9fd-920a4363c7e2.png)
+
+### Autoscaling
+![autoscaling](https://user-images.githubusercontent.com/18218791/163683509-3583e1ff-304e-4c60-aef0-a7ea7371b063.png)
+
+### Pipeline Github + Jenkins + Rancher
+![pepiline](https://user-images.githubusercontent.com/18218791/163684630-8922ebf3-dfe9-4d16-8b8d-c3090b0b093e.png)
