@@ -10,16 +10,16 @@ Construção, teste, deployment de aplicações em container com esse mega curso
   - [x] 1.3 DevOps
   - [x] 1.4 Ambiente
   - [x] 1.5 Ambiente - AWS
-- [ ] 2. Rancher e Kubernetes
-  - [ ] 2.1 Construindo sua aplicação
-  - [ ] 2.2 Rancher-Single Node
-  - [ ] 2.3 Kubernetes
-- [ ] 3. Aplicações, componentes do Kubernetes e Pipeline - Dev ao Ops
-  - [ ] 3.1 Kubectl
-  - [ ] 3.2 DNS
-  - [ ] 3.3 Volume
-  - [ ] 3.4 Log
-  - [ ] 3.5 Monitoramento
+- [x] 2. Rancher e Kubernetes
+  - [x] 2.1 Construindo sua aplicação
+  - [x] 2.2 Rancher-Single Node
+  - [x] 2.3 Kubernetes
+- [x] 3. Aplicações, componentes do Kubernetes e Pipeline - Dev ao Ops
+  - [x] 3.1 Kubectl
+  - [x] 3.2 DNS
+  - [x] 3.3 Volume
+  - [x] 3.4 Log
+  - [x] 3.5 Monitoramento
   - [ ] 3.6 Cronjob
   - [ ] 3.7 Configmap
   - [ ] 3.8 Secrets
@@ -92,3 +92,22 @@ Construção, teste, deployment de aplicações em container com esse mega curso
   - [ ] 9.1 Rancher
   - [ ] 9.2 Kubernetes cluster
   - [ ] 9.3 Rancher custom UI
+
+# Snapshots
+
+### Domínio Gratuito no Freenom
+![Dominio Gratuito no Freenom](https://user-images.githubusercontent.com/18218791/163678710-130f0515-b355-4f2b-b1b2-193a40429a90.png)
+
+### Traefik - DNS
+![Traefic](https://user-images.githubusercontent.com/18218791/163679107-33b113a3-148c-452c-915e-003f1615ef9d.png)
+
+### DNS Records na Digital Oceans
+![DNS Records Digital Ocean](https://user-images.githubusercontent.com/18218791/163678908-9758ed5d-f18d-4050-a699-f91755badc32.png)
+
+### Gerenciador de Volumes Longhorn
+![LongHorn](https://user-images.githubusercontent.com/18218791/163679030-a9610f39-3859-446d-b695-8744bd6b01c0.png)
+
+### Rancher
+
+![Rancher](https://user-images.githubusercontent.com/18218791/163679160-1c83fb1f-7f0a-49c4-9529-ef665758ddb0.png)
+
