@@ -1,7 +1,7 @@
 # DevOps Ninja: Docker, Kubernetes e Rancher
 
-https://github.com/marcossouz/devops
-https://github.com/marcossouz/kubernetes-deploy-go
+- https://github.com/marcossouz/devops
+- https://github.com/marcossouz/kubernetes-deploy-go
 
 Construção, teste, deployment de aplicações em container com esse mega curso. Da criação do cluster até o Pipeline
 
@@ -30,11 +30,11 @@ Construção, teste, deployment de aplicações em container com esse mega curso
   - [x] 3.12 Scheduling
   - [x] 3.13 Pipeline
     - [x] `https://github.com/marcossouz/kubernetes-deploy-go`
-  - [ ] 3.14 Kubeless
-  - [ ] 3.15 Helm
-- [ ] 4. Estratégia e Encerramento
-  - [ ] 4.1 Como construir uma estratégia Kubernetes Enterprise
-  - [ ] 4.2 Encerramento
+  - [x] 3.14 Kubeless
+  - [x] 3.15 Helm
+- [x] 4. Estratégia e Encerramento
+  - [x] 4.1 Como construir uma estratégia Kubernetes Enterprise
+  - [x] 4.2 Encerramento
 - [ ] 5. Extras
   - [ ] 5.1 Freenom - Domínio Gratuito
   - [ ] 5.2 Políticas de Rede
@@ -135,4 +135,9 @@ Construção, teste, deployment de aplicações em container com esse mega curso
 ### Aplicação disponível no Traefik
 ![Traefik](https://user-images.githubusercontent.com/18218791/163684980-a9721d30-25be-4e85-b6c4-43aa905fdf85.png)
 
+### Kubeless
+![Kubeless](https://user-images.githubusercontent.com/18218791/163687794-0c91cb3a-b410-4737-b6ee-30c7bccb9313.png)
+
+### Kubeless UI
+![Kubeless UI](https://user-images.githubusercontent.com/18218791/163688165-af006bbe-1ff6-4ea9-be16-c61466fecf0e.png)
 
