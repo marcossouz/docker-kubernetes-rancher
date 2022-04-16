@@ -98,16 +98,24 @@ Construção, teste, deployment de aplicações em container com esse mega curso
 ### Domínio Gratuito no Freenom
 ![Dominio Gratuito no Freenom](https://user-images.githubusercontent.com/18218791/163678710-130f0515-b355-4f2b-b1b2-193a40429a90.png)
 
-### Traefik - DNS
-![Traefic](https://user-images.githubusercontent.com/18218791/163679107-33b113a3-148c-452c-915e-003f1615ef9d.png)
-
 ### DNS Records na Digital Oceans
 ![DNS Records Digital Ocean](https://user-images.githubusercontent.com/18218791/163678908-9758ed5d-f18d-4050-a699-f91755badc32.png)
 
+### Traefik - DNS
+![Traefic fail](https://user-images.githubusercontent.com/18218791/163679107-33b113a3-148c-452c-915e-003f1615ef9d.png)
+![Traefik OK](https://user-images.githubusercontent.com/18218791/163680083-ecdec19f-0c04-4f69-9548-ef755500972d.png)
+
 ### Gerenciador de Volumes Longhorn
-![LongHorn](https://user-images.githubusercontent.com/18218791/163679030-a9610f39-3859-446d-b695-8744bd6b01c0.png)
+![Longhorn Fail](https://user-images.githubusercontent.com/18218791/163679030-a9610f39-3859-446d-b695-8744bd6b01c0.png)
+![Longhorn OK](https://user-images.githubusercontent.com/18218791/163680049-e9b18fac-52c9-4ba3-af97-341436db8e8e.png)
 
 ### Rancher
+![Rancher Fail](https://user-images.githubusercontent.com/18218791/163679160-1c83fb1f-7f0a-49c4-9529-ef665758ddb0.png)
+![Rancher OK](https://user-images.githubusercontent.com/18218791/163680002-8f6a6252-90e2-4cb9-956a-f51b5f08c45b.png)
 
-![Rancher](https://user-images.githubusercontent.com/18218791/163679160-1c83fb1f-7f0a-49c4-9529-ef665758ddb0.png)
+### Graylog
+![Graylog](https://user-images.githubusercontent.com/18218791/163680100-17991aad-68ca-4152-a4ec-fad6dce42b41.png)
 
+### Monitoramento - Grafana
+![Grafana](https://user-images.githubusercontent.com/18218791/163680144-6374bba9-1a4b-4c9b-8473-8060d82507b8.png)
+![Grafana 2](https://user-images.githubusercontent.com/18218791/163680213-a6b71b6b-c600-44ed-adc6-637d0e0ad355.png)
