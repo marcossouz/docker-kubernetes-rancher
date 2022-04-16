@@ -130,3 +130,9 @@ Construção, teste, deployment de aplicações em container com esse mega curso
 
 ### Pipeline Github + Jenkins + Rancher
 ![pepiline](https://user-images.githubusercontent.com/18218791/163684630-8922ebf3-dfe9-4d16-8b8d-c3090b0b093e.png)
+![Pipeline 2](https://user-images.githubusercontent.com/18218791/163684900-fb46acd7-b030-43a7-8888-91798bc315f3.png)
+
+### Aplicação disponível no Traefik
+![Traefik](https://user-images.githubusercontent.com/18218791/163684980-a9721d30-25be-4e85-b6c4-43aa905fdf85.png)
+
+
