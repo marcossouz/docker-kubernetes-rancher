@@ -35,39 +35,39 @@ Construção, teste, deployment de aplicações em container com esse mega curso
 - [x] 4. Estratégia e Encerramento
   - [x] 4.1 Como construir uma estratégia Kubernetes Enterprise
   - [x] 4.2 Encerramento
-- [ ] 5. Extras
-  - [ ] 5.1 Freenom - Domínio Gratuito
-  - [ ] 5.2 Políticas de Rede
-  - [ ] 5.3 Rancher-Overview
-  - [ ] 5.4 Kubernetes - Limites
-  - [ ] 5.5 Permissões - Rancher e Kubernetes
-  - [ ] 5.6 Kubernetes - Certificados SSL
-  - [ ] 5.7 Rancher - Importação de cluster Kubernetes
-  - [ ] 5.8 Banco de dados em container
-  - [ ] 5.9 Produção - Arquitetura
-  - [ ] 5.10 Istio - Service Mesh - Parte 1
-  - [ ] 5.11 Docker DinD
-  - [ ] 5.12 Limpeza do cluster
-  - [ ] 5.13 Rancher HA
-  - [ ] 5.14 Kubernetes HA
-  - [ ] 5.15 DNS - Traefik 2.2
-  - [ ] 5.16 K3S - Kubernetes para IoT e Edge Computing
-  - [ ] 5.17 Cluster Explorer
-  - [ ] 5.18 AWS - Aprenda a calcular seus custos de infra na nuvem
-  - [ ] 5.19 AWS - Automatizar deployment do ambiente
-  - [ ] 5.20 HPA - Horizontal Pod Autoscaling - Versão Nova
-  - [ ] 5.21 A morte do Docker
-  - [ ] 5.22 A morte do x86
-  - [ ] 5.23 BuildKit & ARM
-  - [ ] 5.24 Harbor - Registro de Imagens de container
-  - [ ] 5.25 Kubernetes Logs com ElasticSearch na AWS
-  - [ ] 5.26 Kubecost - Controle os custos do seu ambiente de containers
-  - [ ] 5.27 Além do Kubernetes
-  - [ ] 5.28 Fleet - Gereciando em escala de múltiplos clusters
-  - [ ] 5.29 Upgrade Rancher e Kubernetes
-  - [ ] 5.30 Canary Deployment
-  - [ ] 5.31 GitHub Actions - Containers
-  - [ ] 5.32 GitHub Actions - Terraform + EKS
+- [x] 5. Extras
+  - [x] 5.1 Freenom - Domínio Gratuito
+  - [x] 5.2 Políticas de Rede
+  - [x] 5.3 Rancher-Overview
+  - [x] 5.4 Kubernetes - Limites
+  - [x] 5.5 Permissões - Rancher e Kubernetes
+  - [x] 5.6 Kubernetes - Certificados SSL
+  - [x] 5.7 Rancher - Importação de cluster Kubernetes
+  - [x] 5.8 Banco de dados em container
+  - [x] 5.9 Produção - Arquitetura
+  - [x] 5.10 Istio - Service Mesh - Parte 1
+  - [x] 5.11 Docker DinD
+  - [x] 5.12 Limpeza do cluster
+  - [x] 5.13 Rancher HA
+  - [x] 5.14 Kubernetes HA
+  - [x] 5.15 DNS - Traefik 2.2
+  - [x] 5.16 K3S - Kubernetes para IoT e Edge Computing
+  - [x] 5.17 Cluster Explorer
+  - [x] 5.18 AWS - Aprenda a calcular seus custos de infra na nuvem
+  - [x] 5.19 AWS - Automatizar deployment do ambiente
+  - [x] 5.20 HPA - Horizontal Pod Autoscaling - Versão Nova
+  - [x] 5.21 A morte do Docker
+  - [x] 5.22 A morte do x86
+  - [x] 5.23 BuildKit & ARM
+  - [x] 5.24 Harbor - Registro de Imagens de container
+  - [x] 5.25 Kubernetes Logs com ElasticSearch na AWS
+  - [x] 5.26 Kubecost - Controle os custos do seu ambiente de containers
+  - [x] 5.27 Além do Kubernetes
+  - [x] 5.28 Fleet - Gereciando em escala de múltiplos clusters
+  - [x] 5.29 Upgrade Rancher e Kubernetes
+  - [x] 5.30 Canary Deployment
+  - [x] 5.31 GitHub Actions - Containers
+  - [x] 5.32 GitHub Actions - Terraform + EKS
 - [ ] 6. Engenharia do Caos
   - [ ] 6.1 Introdução e Caos Mesh
   - [ ] 6.2 PodKill
