@@ -68,15 +68,15 @@ Construção, teste, deployment de aplicações em container com esse mega curso
   - [x] 5.30 Canary Deployment
   - [x] 5.31 GitHub Actions - Containers
   - [x] 5.32 GitHub Actions - Terraform + EKS
-- [ ] 6. Engenharia do Caos
-  - [ ] 6.1 Introdução e Caos Mesh
-  - [ ] 6.2 PodKill
-  - [ ] 6.3 CPU Stress
-- [ ] 7. Kubernetes manual Vs EKS - AKS - GKE
-  - [ ] 7.1 Intro e GKE
-  - [ ] 7.2 EKS
-  - [ ] 7.3 AKS
-- [ ] 8. Auto DevOps
+- [x] 6. Engenharia do Caos
+  - [x] 6.1 Introdução e Caos Mesh
+  - [x] 6.2 PodKill
+  - [x] 6.3 CPU Stress
+- [x] 7. Kubernetes manual Vs EKS - AKS - GKE
+  - [x] 7.1 Intro e GKE
+  - [x] 7.2 EKS
+  - [x] 7.3 AKS
+- [x] 8. Auto DevOps - https://gitlab.com/mrcsz.m/readme
   - [ ] 8.1 Introdução - Parte 1
   - [ ] 8.2 Introdução - Parte 2
   - [ ] 8.3 Introdução - Parte 3
