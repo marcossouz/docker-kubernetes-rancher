@@ -3,6 +3,13 @@
 - https://github.com/marcossouz/devops
 - https://github.com/marcossouz/kubernetes-deploy-go
 
+
+# Auto DevOps
+  - https://gitlab.com/mrcsz.m/readme
+  - https://gitlab.com/mrcsz.m/nodejs
+  - https://docs.gitlab.com/ee/topics/autodevops/
+  
+  
 Construção, teste, deployment de aplicações em container com esse mega curso. Da criação do cluster até o Pipeline
 
 - [x] 1. Introdução e ambiente
@@ -77,23 +84,23 @@ Construção, teste, deployment de aplicações em container com esse mega curso
   - [x] 7.2 EKS
   - [x] 7.3 AKS
 - [x] 8. Auto DevOps - https://gitlab.com/mrcsz.m/readme
-  - [ ] 8.1 Introdução - Parte 1
-  - [ ] 8.2 Introdução - Parte 2
-  - [ ] 8.3 Introdução - Parte 3
-  - [ ] 8.4 Criação do cluster
-  - [ ] 8.5 DNS-Parte 1
-  - [ ] 8.6 Cluster Management
-  - [ ] 8.7 DNS-Parte 2
-  - [ ] 8.8 Gitlab Runner
-  - [ ] 8.9 Pipeline
-  - [ ] 8.10 Custom DNS
-  - [ ] 8.11 Log e monitoramento
-  - [ ] 8.12 Operations Dashboard
-  - [ ] 8.13 Sentry
-- [ ] 9. Rancher 2.6.2
-  - [ ] 9.1 Rancher
-  - [ ] 9.2 Kubernetes cluster
-  - [ ] 9.3 Rancher custom UI
+  - [x] 8.1 Introdução - Parte 1
+  - [x] 8.2 Introdução - Parte 2
+  - [x] 8.3 Introdução - Parte 3
+  - [x] 8.4 Criação do cluster
+  - [x] 8.5 DNS-Parte 1
+  - [x] 8.6 Cluster Management
+  - [x] 8.7 DNS-Parte 2
+  - [x] 8.8 Gitlab Runner
+  - [x] 8.9 Pipeline
+  - [x] 8.10 Custom DNS
+  - [x] 8.11 Log e monitoramento
+  - [x] 8.12 Operations Dashboard
+  - [x] 8.13 Sentry
+- [x] 9. Rancher 2.6.2
+  - [x] 9.1 Rancher
+  - [x] 9.2 Kubernetes cluster
+  - [x] 9.3 Rancher custom UI
 
 # Snapshots
 
