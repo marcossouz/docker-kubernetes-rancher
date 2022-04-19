@@ -2,13 +2,6 @@
 
 - https://github.com/marcossouz/devops
 - https://github.com/marcossouz/kubernetes-deploy-go
-
-
-# Auto DevOps
-  - https://gitlab.com/mrcsz.m/readme
-  - https://gitlab.com/mrcsz.m/nodejs
-  - https://docs.gitlab.com/ee/topics/autodevops/
-  
   
 Construção, teste, deployment de aplicações em container com esse mega curso. Da criação do cluster até o Pipeline
 
